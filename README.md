@@ -1,2 +1,2 @@
 # EnglishWeb
-English Website _ Finalsh Website _ Final IE104 Project
+English Website _ Final IE104 Project
